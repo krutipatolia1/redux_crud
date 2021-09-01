@@ -1,0 +1,6 @@
+export const USER = {
+    ADD_USER: 'ADD_USER',
+    EDIT_USER: 'EDIT_USER',
+    DELETE_USER: 'DELETE_USER',
+    DELETE_ALL: 'DELETE_ALL'
+}
